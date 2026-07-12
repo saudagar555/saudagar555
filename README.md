@@ -2,16 +2,11 @@
 
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Saudagar%20Khamkar&fontSize=60&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20Engineer&descSize=25&animation=fadeIn"/>
-# Saudagar Khamkar
-
-### Full Stack Developer | AI Engineer | MERN Stack Developer
-
-Building scalable web applications and AI-powered solutions with modern technologies.
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:312E81&height=180&section=header&text=Saudagar%20Khamkar&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20MERN%20Stack&descSize=22&animation=fadeIn"
+    width="100%"
+  />
 </p>
-
 </div>
 
 ---
