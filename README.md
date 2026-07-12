@@ -3,8 +3,8 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:312E81&height=180&section=header&text=Saudagar%20Khamkar&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20MERN%20Stack&descSize=22&animation=fadeIn"
     width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:312E81&height=220&section=header&text=Saudagar%20Khamkar&fontSize=52&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20MERN%20Stack&descSize=20&descAlignY=72&animation=fadeIn"
   />
 </p>
 </div>
@@ -22,7 +22,6 @@ const saudagar = {
     specialization: [
         "Full Stack MERN Development",
         "Backend Engineering",
-        "Artificial Intelligence",
         "Machine Learning"
     ],
 
@@ -31,33 +30,18 @@ const saudagar = {
         "Express.js",
         "React",
         "Node.js",
-        "FastAPI",
         "Python"
     ],
 
-    currentlyWorkingOn: [
-        "AI Battery Abuse Detection System",
-        "Advanced Backend Development"
-    ],
-
-    currentlyLearning: [
-        "GenAI",
-        "LangChain",
-        "AWS",
-        "System Design",
-        "Microservices"
-    ],
-
+   
     openTo: [
         "Software Engineering Roles",
         "Backend Development",
         "AI Engineering",
         "Full Stack Development"
-    ],
+    ];
 
-    funFact:
-        "I love building projects that combine Full Stack Development with AI."
-};
+    
 ```
 
 ---
